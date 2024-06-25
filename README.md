@@ -20,4 +20,4 @@ Okay you are redy to run .js file "node main.js" if everything is okay you can s
 
 After that you can open the mobile app on the right side there is a menu you can switch the schenarios using that.
 
-First 3 schenario based on the mobile app others happens on the web app, happy hacking.
+First 3 schenario based on the mobile app (Insecure Storage, Webview, XSS via webview) others happens on the web app (SQL Injection, IDOR and Authentication bypass), happy hacking.
